@@ -1,0 +1,75 @@
+#head1{
+    background-color: #4682B4;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    ;
+    }
+    body{
+        background-color: #141011;
+        color: aliceblue;
+    
+    }
+    #titulo{
+        text-align: center;
+    }
+    #p1{
+        text-align: center;
+    }
+    #form{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    justify-items: center;
+    background-color: #141011;
+    border-radius: 8px;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 1px solid #ccc
+    }
+    #aaa{
+        border-radius: 8px;
+    }
+    .jogo{
+        border-radius: 8px;
+        box-sizing: border-box;
+        margin: 10px;
+        padding: 15px;
+        text-align: center;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        display: inline-block;
+    
+    }
+    #img{
+        width: 300px;
+        height: 200px;
+        border-radius: 8px;
+        max-width: 100%;
+    
+    }
+    #main{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #contaa{
+        padding-left: 47%;
+    }
+    #cartera{
+        padding-left: 45.5%;
+    }
+    #divvv {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    #pinicial {
+
+        padding-left: 47%;
+    }
+    #b6{
+        border-radius: 8px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+    ::selection{
+        background-color: blue;
+        color: blue;
+    }
